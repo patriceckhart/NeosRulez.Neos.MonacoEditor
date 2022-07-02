@@ -1,0 +1,19 @@
+{
+  "description": "A Neos CMS plugin which provides the Monaco editor for the inspector.",
+  "type": "neos-plugin",
+  "name": "neosrulez/neos-monacoeditor",
+  "require": {
+    "neos/neos": "^7.0 || ^8.0",
+    "neos/neos-ui": "^7.0 || ^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "NeosRulez\\Neos\\MonacoEditor\\": "Classes/"
+    }
+  },
+  "extra": {
+    "neos": {
+      "package-key": "NeosRulez.Neos.MonacoEditor"
+    }
+  }
+}

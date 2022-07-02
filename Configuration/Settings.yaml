@@ -1,0 +1,7 @@
+Neos:
+  Neos:
+    Ui:
+      resources:
+        javascript:
+          NeosRulez.Neos.MonacoEditor:
+            resource: '${"resource://NeosRulez.Neos.MonacoEditor/Public/Plugin.js"}'

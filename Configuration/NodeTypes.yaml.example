@@ -1,0 +1,15 @@
+'Acme.Site.Content:Code':
+  properties:
+    source:
+      type: string
+      ui:
+        label: Code
+        reloadIfChanged: true
+        inspector:
+          editor: NeosRulez.Neos.MonacoEditor/MonacoEditor
+          editorOptions:
+            theme: 'vs-dark'
+            buttonLabel: 'Edit JavaScript'
+            highlightingMode: 'javascript'
+#            highlightingMode: 'scss'
+#            ... look here for more highlighting modes: https://microsoft.github.io/monaco-editor/
