@@ -1,4 +1,4 @@
-# Monaco editor for NeosRulez.DynamicResources
+# Monaco editor for the Neos CMS
 
 This Neos CMS plugin provides the Monaco editor as property editor for the inspector. 
 The Monaco Editor is the code editor that powers Visual Studio Code.
