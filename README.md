@@ -5,6 +5,8 @@ The Monaco Editor is the code editor that powers Visual Studio Code.
 
 You can simply replace `Neos.Neos/Inspector/Editors/CodeEditor` with `NeosRulez.Neos.MonacoEditor/MonacoEditor`. In the best case, your code will be accepted without errors.
 
+![MonacoEditor](https://raw.githubusercontent.com/patriceckhart/NeosRulez.Neos.MonacoEditor/master/Preview.png)
+
 ## Installation
 
 The NeosRulez.Neos.MonacoEditor package is listed on packagist (https://packagist.org/packages/neosrulez/neos-monacoeditor) - therefore you don't have to include the package in your "repositories" entry any more.
