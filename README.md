@@ -14,7 +14,7 @@ The NeosRulez.Neos.MonacoEditor package is listed on packagist (https://packagis
 Just run:
 
 ```
-composer require neosrulez/dynamicresources-monaco
+composer require neosrulez/neos-monacoeditor
 ```
 
 ## How to use
